@@ -12,7 +12,7 @@
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <maven.surefire.version>2.22.2</maven.surefire.version>
         <karate.version>1.4.1</karate.version>
-        <allure.version>2.25.0</allure.version>
+        <allure.version>2.27.0</allure.version>
         <aspectj.version>1.9.21</aspectj.version>
     </properties>
 
